@@ -11,6 +11,7 @@ Steps
 4. Server: Combine client seed with server seed and hash result (CSH)
 5. Server: Determine game outcome from CSH and adjust internal values accordingly
 6. Server: Send CSH to client, client will display same game outcome
+7. Client: Verify game outcome
 Subsequent rounds
 Go back to step 3
 */
