@@ -15,7 +15,7 @@ Steps
 8. Client: Calculate CSH from SS and CS
 9. Client: Verify CSH yields same outcome as O
 Subsequent rounds
-Go back to step 3
+Go back to step 1
 */
 
 /* Shared values and functions */
