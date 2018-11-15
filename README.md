@@ -10,5 +10,7 @@ Steps
 7. Client: Verify SS hashes to SSH
 8. Client: Calculate CSH from SS and CS
 9. Client: Verify CSH yields same outcome as O
+
 Subsequent rounds
+
 Go back to step 1
